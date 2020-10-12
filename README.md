@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/Mesqualito/Spring5MVCRestApplication.svg?style=svg)](https://circleci.com/gh/Mesqualito/spring5mvcrestapplication)
 
-[![codecov](https://codecov.io/gh/Mesqualito/spring5-mysql-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/Mesqualito/spring5mvcrestapplication)
+[![codecov](https://codecov.io/gh/Mesqualito/Spring5MVCRestApplication/branch/master/graph/badge.svg)](https://codecov.io/gh/Mesqualito/spring5mvcrestapplication)
 
 This repository is for an example application built in John Thompsons Spring Framework 5 - Beginner to Guru
 
